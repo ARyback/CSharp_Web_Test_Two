@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using WebApplicationOne.Models;
 
 namespace WebApplicationOne.Data
 {
@@ -9,5 +10,6 @@ namespace WebApplicationOne.Data
             : base(options)
         {
         }
+        public DbSet<WebApplicationOne.Models.Info>? Info { get; set; }
     }
 }

@@ -27,6 +27,26 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/adamr/source/repos/TestWebApp/WebApplicationOne/Views/Infoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5mb2VzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/adamr/source/repos/TestWebApp/WebApplicationOne/Views/Infoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5mb2VzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/adamr/source/repos/TestWebApp/WebApplicationOne/Views/Infoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5mb2VzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/adamr/source/repos/TestWebApp/WebApplicationOne/Views/Infoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5mb2VzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/adamr/source/repos/TestWebApp/WebApplicationOne/Views/Infoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5mb2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/adamr/source/repos/TestWebApp/WebApplicationOne/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

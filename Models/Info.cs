@@ -5,5 +5,10 @@
         public int Id { get; set; }
         public string InformationQuestion { get; set; }
         public string Information { get; set; }
+
+        public Info()
+        {
+
+        }
     }
 }
